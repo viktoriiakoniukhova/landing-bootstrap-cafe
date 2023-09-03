@@ -1,0 +1,15 @@
+*{
+    font-family: 'Faustina', cursive;
+}
+.about-us-image-cont {
+    height: 200px;
+}
+.about-us-image, .home-img{
+    height: 100%;
+    width: 100%;
+
+    object-fit: cover;
+}
+.span-text-color {
+    color: #6c757d;
+}
